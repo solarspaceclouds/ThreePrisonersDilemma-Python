@@ -18,6 +18,7 @@ etc.
 
 In this project, MyPlayer is pitted against 7 other types of specified players. 
 MyPlayer performs exceptionally well, placing consistently in the top 3 in the tournaments that had been run.
+
 ![image](https://github.com/solarspaceclouds/ThreePrisonersDilemma-Python/assets/65459827/4a1b8402-2d08-45fd-953b-86fdfd0d7126)
 
 
