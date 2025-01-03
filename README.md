@@ -1,7 +1,7 @@
 # Three Prisoners Dilemma 
 
 ## Overview
-This project is a python implementationo f the Three Prisoners Dilemma problem commonly implemented in Java. 
+This project is a python implementation of the Three Prisoners Dilemma problem commonly implemented in Java. 
 I did the project in Java for a school assignment for the Intelligent Agents module and am creating this project for practice of converting Java code to python and to reinforce my learning from this project about multi-agent systems
 
 ## Background
